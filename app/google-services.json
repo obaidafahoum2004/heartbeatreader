@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "60479110343",
+    "project_id": "obaidaproject",
+    "storage_bucket": "obaidaproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60479110343:android:82f5db87ef27d6851ed2e2",
+        "android_client_info": {
+          "package_name": "com.example.heartbeatreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60479110343-tnli3qlng7qkidpkik5a5sn5uj1e1gvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpd1ubp1U9rP7urTR4fyCFpNHaRCTmOs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60479110343-tnli3qlng7qkidpkik5a5sn5uj1e1gvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60479110343:android:ffd5356dcf9cea8f1ed2e2",
+        "android_client_info": {
+          "package_name": "com.example.obaidaproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60479110343-tnli3qlng7qkidpkik5a5sn5uj1e1gvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpd1ubp1U9rP7urTR4fyCFpNHaRCTmOs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60479110343-tnli3qlng7qkidpkik5a5sn5uj1e1gvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
